@@ -1,0 +1,13 @@
+{
+  "name": "doc-sort-ai",
+  "version": "1.0.0",
+  "description": "AI-Powered Document Page Sorting & Intelligent Grouping",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "fastify": "^4.26.2",
+    "@fastify/multipart": "^8.2.0"
+  }
+}
