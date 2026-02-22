@@ -3,3 +3,4 @@ backend/node_modules/
 ai_engine/__pycache__/
 *.pdf
 uploads/
+__pycache__

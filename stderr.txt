@@ -1,0 +1,6 @@
+{"level": "INFO", "message": "Starting processing for: test.pdf"}
+{"level": "WARNING", "message": "Tesseract binary not found. Falling back to text extraction/simulation."}
+{"level": "INFO", "message": "Load pretrained SentenceTransformer: all-MiniLM-L6-v2"}
+{"level": "INFO", "message": "Use pytorch device_name: cpu"}
+{"level": "ERROR", "message": "Error processing PDF: Cannot read an empty file"}
+{"level": "ERROR", "message": "OCR failed: Cannot read an empty file"}
